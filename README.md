@@ -1,5 +1,5 @@
 demogit
 =======
 
-Une démo de git qu ise passe bien
+Une démo de git qui se passe bien
 
